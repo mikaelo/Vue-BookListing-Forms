@@ -32,7 +32,7 @@ export default {
         bookTitle: "",
         bookAuthor: "",
         finishedReading: false,
-        ownership: []
+        ownership: ""
       }
     };
   },
